@@ -1,0 +1,19 @@
+{
+  "name": "page-casper",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kaznishi/page-capture.git"
+  },
+  "author": "kaznishi",
+  "license": "MIT License",
+  "dependencies": {
+    "casperjs": "~1.1.0-beta3",
+    "phantomjs": "~1.9.7-5"
+  }
+}
